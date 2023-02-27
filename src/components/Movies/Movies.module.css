@@ -1,0 +1,6 @@
+
+.Movies1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+}

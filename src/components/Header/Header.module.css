@@ -1,0 +1,19 @@
+
+
+.Header {
+    height: 10px;
+    width: 80%;
+    padding: 10px 140px;
+    background: lightblue;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    align-items: center;
+}
+
+.buttonUser {
+    border-radius: 15px;
+}
+
+
+

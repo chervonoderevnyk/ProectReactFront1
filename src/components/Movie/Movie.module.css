@@ -1,0 +1,50 @@
+
+.Movie {
+    margin: 35px 14px 0px 14px;
+}
+
+.Movie {
+    background-color: lightblue;
+    width: 235px;
+    height: 245px;
+    padding: 10px 1px;
+    border-radius: 15px;
+}
+
+img {
+    width: 160px;
+    height: 190px;
+    border-radius: 15px;
+}
+
+.button {
+    margin: 50px -6px;
+    border-radius: 10px;
+}
+
+.MovieImage {
+    height: 190px;
+    width: 217px;
+    display: flex;
+    margin-left: 13px;
+}
+
+.Movie2 {
+    text-align: center;
+    right: 40px;
+    bottom: 80px;
+}
+
+.MovieStars {
+    width: 180px;
+}
+
+.MovieTitle {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
